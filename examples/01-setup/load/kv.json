@@ -1,0 +1,37 @@
+[
+	{
+		"key": "config/application/application.intro",
+		"flags": 0,
+		"value": "SEVMTE8="
+	},
+	{
+		"key": "config/application/microservice.foo",
+		"flags": 0,
+		"value": "bWljcm8tYmFy"
+	},
+	{
+		"key": "config/application/microservice.welcome",
+		"flags": 0,
+		"value": "T2hpbw=="
+	},
+	{
+		"key": "config/demo-service/foo",
+		"flags": 0,
+		"value": "U29tZVRoaW5nISEh"
+	},
+	{
+		"key": "config/demo-service/microservice.foo",
+		"flags": 0,
+		"value": "QkFSLUItUQ=="
+	},
+	{
+		"key": "config/demo-service/microservice.welcome",
+		"flags": 0,
+		"value": "U2FuZHVza3ksIE9oaW8="
+	},
+	{
+		"key": "config/gateway-server/foo",
+		"flags": 0,
+		"value": "YmFyLWItcQ=="
+	}
+]

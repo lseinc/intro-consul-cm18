@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.lse.example.consul</groupId>
+	<artifactId>examples</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>Build Consul Examples</name>
+	<url>http://www.lse.com</url>        
+
+	<modules>
+		<module>02-config/demo-service</module>
+		<module>03-discovery/demo-application</module>
+		<module>04-gateway/gateway-server</module>
+	</modules>
+</project>
+

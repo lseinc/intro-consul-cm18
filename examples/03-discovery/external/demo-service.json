@@ -1,0 +1,3 @@
+{"Datacenter": "dc1", "Node": "Davids-MacBook-Pro-3.local",
+   "Address": "localhost",
+   "Service": { "Service": "demo-service", "Port": 8080 }}

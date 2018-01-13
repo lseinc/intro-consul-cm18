@@ -1,0 +1,3 @@
+{"Datacenter": "dc1", "Node": "google",
+   "Address": "www.google.com",
+   "Service": {"Service": "google", "Port": 80}}
