@@ -47,6 +47,8 @@ by David Lucas
 
 Please review the slides in the slides folder to read through what was attempted in the demo that might help understand.  You can always reach out to me at @DavidDLucas or via github.com/lseinc issue.
 
+[slides/Spring-Cloud-Consul-CM2018.pdf](slides/Spring-Cloud-Consul-CM2018.pdf)
+
 ---
 
 This will most likely change with the upcoming Spring Boot 2 release.  But it should be close to how it will be without any major changes.
